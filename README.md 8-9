@@ -61,7 +61,17 @@
                 font-size: 24px;
                 background-color: transparent;
             }
+#stukje {
 
+    width: 65%;
+                margin: auto;
+                margin-top: 5%;
+                padding: 5%;
+                text-align: center;
+                border-left: 4px solid rgb(231, 28, 28);
+
+
+}
             #container {
                 width: 65%;
                 margin: auto;
@@ -108,5 +118,12 @@
                 </a>
             </p>
         </div>
+
+        <div id="stukje">
+
+
+        </div>
+  
     </body>
 </html>
+di
